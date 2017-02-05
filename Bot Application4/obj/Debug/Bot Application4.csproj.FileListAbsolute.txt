@@ -1,0 +1,46 @@
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\Bot Application1.dll.config
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\Bot Application1.dll
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\Bot Application1.pdb
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\Autofac.dll
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\Chronic.dll
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\Microsoft.Bot.Builder.dll
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\Microsoft.Bot.Connector.dll
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\Microsoft.Rest.ClientRuntime.dll
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\Microsoft.WindowsAzure.Configuration.dll
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\Newtonsoft.Json.dll
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\System.IdentityModel.Tokens.Jwt.dll
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\System.Net.Http.Formatting.dll
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\System.Web.Http.dll
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\System.Web.Http.WebHost.dll
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\Autofac.xml
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\Microsoft.Bot.Builder.xml
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\Microsoft.Bot.Connector.xml
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\Microsoft.IdentityModel.Protocol.Extensions.pdb
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\Microsoft.Rest.ClientRuntime.xml
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\Microsoft.WindowsAzure.Configuration.xml
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\Newtonsoft.Json.xml
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\System.IdentityModel.Tokens.Jwt.pdb
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\System.IdentityModel.Tokens.Jwt.xml
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\System.Net.Http.Formatting.xml
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\System.Web.Http.xml
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\System.Web.Http.WebHost.xml
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\ar\Microsoft.Bot.Builder.resources.dll
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\en\Microsoft.Bot.Builder.resources.dll
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\es\Microsoft.Bot.Builder.resources.dll
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\fa\Microsoft.Bot.Builder.resources.dll
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\fr\Microsoft.Bot.Builder.resources.dll
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\ja\Microsoft.Bot.Builder.resources.dll
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\ru\Microsoft.Bot.Builder.resources.dll
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\obj\Debug\Bot Application4.csprojResolveAssemblyReference.cache
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\obj\Debug\Bot Application1.dll
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\obj\Debug\Bot Application1.pdb
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\Microsoft.ProjectOxford.Common.dll
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\Microsoft.ProjectOxford.Emotion.dll
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\System.Net.Http.Extensions.dll
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\System.Net.Http.Primitives.dll
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\System.Net.Http.Extensions.xml
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\bin\System.Net.Http.Primitives.xml
+c:\users\cristi\documents\visual studio 2015\Projects\Bot Application4\Bot Application4\obj\Debug\Bot Application4.csproj.App.config
